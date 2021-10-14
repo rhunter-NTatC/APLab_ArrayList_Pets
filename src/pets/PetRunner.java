@@ -33,7 +33,8 @@ public class PetRunner {
 		
 		// #3 create a file scanner
 		// then use a loop to scan in all the pets from the file
-
+		// file location src/pets/petInput.txt
+		
 		
 		// #4 uncomment the next line and finish all the incomplete methods.
 		//menu(pets);
